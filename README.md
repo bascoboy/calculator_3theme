@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Darko96/calculator]
-- Live Site URL: [https://darko96.github.io/calculator/]
+- Solution URL: []
+- Live Site URL: []
 
 ## My process
 
